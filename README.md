@@ -1,4 +1,6 @@
 ## Hi there 👋
+I am K Neeba Sara Johnson 👧🏽. Soon will be graduating MCA. Want to make projects and learn.
+
 
 <!--
 **NeebaSara/NeebaSara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
