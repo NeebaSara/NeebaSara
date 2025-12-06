@@ -1,6 +1,7 @@
 ## Hi there 👋
-I am K Neeba Sara Johnson 👧🏽. Soon will be graduating MCA. Want to make projects and learn.
-
+I am K Neeba Sara Johnson 👧🏽. Soon will be graduating with a Master's degree in Computer Applications(MCA).
+🌟 Curious
+🔭 I’m currently learning Python, SQL
 
 <!--
 **NeebaSara/NeebaSara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
