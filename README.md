@@ -2,6 +2,7 @@
 I am K Neeba Sara Johnson 👧🏽. Soon will be graduating with a Master's degree in Computer Applications(MCA).
 
 🌟 Curious
+
 🔭 I’m currently learning Python, SQL
 
 <!--
