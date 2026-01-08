@@ -1,9 +1,9 @@
-## Hi there 👋
+## Hello y'all👋
 I am K Neeba Sara Johnson 👧🏻. Recently graduated with a Master's degree in Computer Applications(MCA).
 
 - Curious
 - I’m currently learning Python, SQL, AI
-- Learning by making different projects
+- 
 
 
 <!--
