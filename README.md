@@ -3,7 +3,6 @@ I am K Neeba Sara Johnson 👧🏻. Recently graduated with a Master's degree in
 
 - ⭐ Aspiring Cyber security Analyst
 - 💫 I’m currently learning Python, SQL, AI
-- 
 
 
 <!--
