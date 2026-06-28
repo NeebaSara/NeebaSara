@@ -1,7 +1,7 @@
 ## Hello y'all👋
-I am K Neeba Sara Johnson 👧🏻. Recently graduated with a Master's degree in Computer Applications(MCA).
+I am K Neeba Sara Johnson 👧🏻. Graduated with a Master's degree in Computer Applications(MCA) in 2025.
 
-- 💫 I’m currently upskilling myself with AI, Python, ML
+- 💫 I’m currently upskilling myself with AI, Python, ML 
 
 
 <!--
