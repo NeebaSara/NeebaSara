@@ -1,8 +1,7 @@
 ## Hello y'all👋
 I am K Neeba Sara Johnson 👧🏻. Recently graduated with a Master's degree in Computer Applications(MCA).
 
-- ⭐ Aspiring Cyber security Analyst
-- 💫 I’m currently learning Python, SQL, AI, Data Visualization
+- 💫 I’m currently upskilling myself with AI, Python, ML
 
 
 <!--
